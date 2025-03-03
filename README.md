@@ -1,0 +1,1 @@
+# cpuminer-multi-2025
