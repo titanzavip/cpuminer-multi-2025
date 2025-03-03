@@ -44,13 +44,9 @@ cd cpuminer-multi-MinotaurX
 ```
 ./build-linux-arm.sh
 ```
-#Zergpool 
+#Zergpool - minotaurx --> VRSC
 ```
-./cpuminer -a minotaurx -o stratum+tcp://minotaurx.mine.zergpool.com:7019 -u DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9 --timeout 120 -p  c=DOGE,mc=LCC,ID=Miner01
-```
-#Zergpool - curvehash --> VRSC
-```
-./cpuminer -a curvehash -o stratum+tcp://curvehash.asia.mine.zergpool.com:3343 -u RJ44vprLnsTYSVk2MKfKRbDuCZmtDn57Cf -p c=VRSC,mc=PLSR,ID=PLSR-1
+./cpuminer -a minotaurx -o stratum+tcp://minotaurx.asia.mine.zergpool.com:7019 -u RJ44vprLnsTYSVk2MKfKRbDuCZmtDn57Cf -p c=VRSC,mc=PLSR,ID=V-1
 ```
 #CoinminerZ
 ```
