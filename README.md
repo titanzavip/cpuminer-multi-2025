@@ -36,7 +36,7 @@ apt-get install libcurl4-openssl-dev -y && apt-get install libssl-dev -y && apt-
 ```
 #Minotaurx 
 ```
-git clone https://github.com/titanzavip/cpuminer-multi-2025.git
+git clone https://github.com/titanzavip/cpuminer-multi-MinotaurX.git
 ```
 ```
 cd cpuminer-multi-2025
